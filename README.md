@@ -1,3 +1,2 @@
-# sample
-this is a sample
-just checking
+// 1. tofind biggest of 2 no.
+
